@@ -1,0 +1,16 @@
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\bin\Debug\net5.0\NUMBER_ANALYZER.exe
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\bin\Debug\net5.0\NUMBER_ANALYZER.deps.json
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\bin\Debug\net5.0\NUMBER_ANALYZER.runtimeconfig.json
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\bin\Debug\net5.0\NUMBER_ANALYZER.runtimeconfig.dev.json
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\bin\Debug\net5.0\NUMBER_ANALYZER.dll
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\bin\Debug\net5.0\ref\NUMBER_ANALYZER.dll
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\bin\Debug\net5.0\NUMBER_ANALYZER.pdb
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\obj\Debug\net5.0\NUMBER_ANALYZER.csproj.AssemblyReference.cache
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\obj\Debug\net5.0\NUMBER_ANALYZER.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\obj\Debug\net5.0\NUMBER_ANALYZER.AssemblyInfoInputs.cache
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\obj\Debug\net5.0\NUMBER_ANALYZER.AssemblyInfo.cs
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\obj\Debug\net5.0\NUMBER_ANALYZER.csproj.CoreCompileInputs.cache
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\obj\Debug\net5.0\NUMBER_ANALYZER.dll
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\obj\Debug\net5.0\ref\NUMBER_ANALYZER.dll
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\obj\Debug\net5.0\NUMBER_ANALYZER.pdb
+C:\GCBootcamp\labs_gcbc\NUMBER_ANALYZER\obj\Debug\net5.0\NUMBER_ANALYZER.genruntimeconfig.cache
